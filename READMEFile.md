@@ -36,10 +36,3 @@ The model utilizes custom metrics and loss weighting to balance task performance
 ---
 
 For questions or collaboration, reach out to Urwa Binat Khalid at \[your email or GitHub profile link].
-
-```
-
----
-
-**Would you like me to help create a `requirements.txt` or sample training script next?**
-```
