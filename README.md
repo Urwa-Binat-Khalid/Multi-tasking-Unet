@@ -1,14 +1,11 @@
 # Multi-tasking-Unet
 Multi-task U-Net for end-to-end image classification and segmentation, ideal for medical imaging and other vision applications.
 
-````markdown
 # Multi-task U-Net Project
 
 This repository contains the implementation of a Multi-task U-Net deep learning model designed to simultaneously perform semantic segmentation and binary classification on input images. The model leverages shared convolutional features to improve overall performance by jointly optimizing for multiple related tasks.
 
----
-
-## Project Overview
+# Project Overview
 
 Multi-task learning can enhance model generalization and efficiency by sharing knowledge across related tasks. This project implements a Multi-task U-Net architecture that addresses two tasks concurrently:
 
@@ -37,5 +34,3 @@ The model utilizes custom metrics and loss weighting to balance task performance
 | `custom_metrics.py`       | Contains implementations of custom metrics used in model evaluation. |
 
 ---
-
-For questions or collaboration, reach out to Urwa Binat Khalid at \[your email or GitHub profile link].
